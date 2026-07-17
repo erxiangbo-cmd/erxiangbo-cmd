@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&width=435&lines=100%25%E6%AD%BB%E4%BA%A1%E7%9A%84%E4%BA%BA%E7%94%9F%EF%BC%8C%E4%BD%A0%E5%9C%A8%E5%AE%B3%E6%80%95%E4%BB%80%E4%B9%88)](https://git.io/typing-svg)
+
 ![贪吃蛇动画](https://raw.githubusercontent.com/erxiangbo-cmd/erxiangbo-cmd/refs/heads/main/assets/github-contribution-grid-snake.svg)
 <!-- 个人资料徽标 -->
 <div align="center">
