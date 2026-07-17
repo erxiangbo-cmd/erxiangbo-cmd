@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-<!--
+![Metrics](https://metrics.lecoq.io/erxiangbo-cmd?template=classic&people=1&stars=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=100%25%E6%AD%BB%E4%BA%A1%E7%9A%84%E4%BA%BA%E7%94%9F%EF%BC%8C%E4%BD%A0%E5%9C%A8%E5%AE%B3%E6%80%95%E4%BB%80%E4%B9%88" alt="Typing SVG" /></a>
 **erxiangbo-cmd/erxiangbo-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
