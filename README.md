@@ -5,8 +5,4 @@
 <div align="center">
   <a href="https://space.bilibili.com/1610937372?"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
-
-
-
-Here are some ideas to get you started:
-
+生命绚烂，别被黑暗压垮
